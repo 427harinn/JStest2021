@@ -5,6 +5,10 @@ html,body {
   height: 100%;
 }
 
+main {
+  font-size: x-large;
+}
+
 .out {
   border: solid 1px black;
   border-radius: 20px;
